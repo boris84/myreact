@@ -13,7 +13,7 @@
     "web-vitals": "^1.1.2"
   },
  
-  "homepage":"https://boris84/github.io/myreact/",
+  "homepage":"https://boris84.github.io/myreact/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
